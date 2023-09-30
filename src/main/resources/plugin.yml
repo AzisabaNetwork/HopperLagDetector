@@ -1,0 +1,8 @@
+name: HopperLagDetector
+api-version: 1.13
+version: @version@
+main: net.azisaba.hopperlagdetector.HopperLagDetector
+commands:
+  hopperlagdetector:
+    permission: hopperlagdetector.command
+    aliases: [hld]
